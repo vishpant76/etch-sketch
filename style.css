@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  border: #00ff00 solid 1px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid-container {
+  max-width: 400px;
+  height: 400px;
+  background-color: aqua;
+}
+
+/* .square-1 {
+  width: 20px;
+  height: 20px;
+  background-color: chocolate;
+} */
